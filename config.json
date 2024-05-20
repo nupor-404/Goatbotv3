@@ -17,16 +17,16 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61556291038049"
+    "100085082042087"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "[ * ] • A N Y A",
+  "nickNameBot": "GOAT BOT",
   "ownerlink": "https://www.facebook.com/Asmit011",
-  "prefix": "*",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
